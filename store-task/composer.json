@@ -1,0 +1,17 @@
+{
+    "name": "alexander/store-task",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\StoreTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "sanyaerin@mail.ru"
+        }
+    ],
+    "require": {}
+}
